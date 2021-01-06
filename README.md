@@ -1,2 +1,5 @@
 # awesome-CS-books
-技术书籍PDF
+
+参考：
+
+1. http://www.cyc2018.xyz/
